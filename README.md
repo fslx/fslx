@@ -22,5 +22,5 @@ Technologies I have experience with:
     * SQL - Some Database experience, have worked some with mySQL.
     * Linux - Experience with Debian based systems.
     * Windows Server - Some previous sysadmin experience on Windows Server 2012 & Windows Server 2007 aswell as Windows Server 2016/2019.
-    * Some Windows super-user tools like Active Directory.
+    * Some Windows super-user tools like Active Directory, Powershell & WSL.
     
